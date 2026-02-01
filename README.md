@@ -1,6 +1,6 @@
 # 电商增长分析项目（Spark + Power BI）
 
-👉 [English Version](README_EN.md)
+[English Version](README_EN.md)
 
 本项目基于电商用户行为日志数据，使用 **PySpark** 构建指标层，
 并通过 **Power BI** 对用户规模、转化漏斗、商品表现和留存情况进行可视化分析，
